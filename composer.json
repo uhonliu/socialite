@@ -21,7 +21,7 @@
     "symfony/http-foundation": "^5.0",
     "guzzlehttp/guzzle": "~6.0|~7.0",
     "ext-json": "*",
-    "symfony/psr-http-message-bridge": "^2.0",
+    "symfony/psr-http-message-bridge": "^7.1",
     "ext-openssl": "*"
   },
   "require-dev": {
